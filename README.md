@@ -1,7 +1,7 @@
 ## Top · AI Builder ที่เข้าใจธุรกิจ
 
 I build data and AI systems for businesses, and I work out what they cost and what they save, in baht, before the work starts.
-I study business in Bangkok and write the code myself.
+I study business in Bangkok.
 
 ผมสร้างระบบด้วย data และ AI ให้ธุรกิจ และบอกต้นทุนกับความคุ้มเป็นบาทก่อนเริ่มงาน
 
